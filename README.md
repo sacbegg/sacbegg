@@ -1,7 +1,6 @@
 # Hi!, My Name is Sacbe García 👋
----
+
 ## MSc in Statistical Computation
----
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sacbeg/">
