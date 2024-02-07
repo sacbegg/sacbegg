@@ -25,7 +25,7 @@ Let's connect and explore the possibilities together.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sacbegg&theme=rose&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=EB545434)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sacbegg&theme=rose&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=EB545434&background=FFECE8CD)](https://git.io/streak-stats)
 
 <!--
 **sacbegg/sacbegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
