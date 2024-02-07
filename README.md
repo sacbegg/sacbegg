@@ -1,4 +1,4 @@
-# Hi, My Name is Sacbe García 👋
+# Hi!, My Name is Sacbe García 👋
 ---
 ## MSc in Statistical Computation
 ---
@@ -26,7 +26,7 @@ Let's connect and explore the possibilities together.
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=sacbegg
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sacbegg&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--
